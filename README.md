@@ -8,7 +8,6 @@ LinkedIn: https://www.linkedin.com/in/dominik-plavka-0411549a/
 Email: domino.plavka@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-Virtual Trainer App (Pre-final project in Green Fox Academy): https://github.com/green-fox-academy/virtual-trainer
 Weather App: https://github.com/DominikPlavka/WeatherApp
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
