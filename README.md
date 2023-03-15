@@ -9,7 +9,7 @@ Email: domino.plavka@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
 Virtual Trainer App (Pre-final project in Green Fox Academy): https://github.com/green-fox-academy/virtual-trainer
-Weather App: https://github.com/DominikPlavka/virtual-train
+Weather App: https://github.com/DominikPlavka/WeatherApp
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 
