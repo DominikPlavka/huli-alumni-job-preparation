@@ -1,6 +1,6 @@
 # Dominik Plavka
 
-Welcome to my page, my name is Dominik and I'm a fresh alumni of Green Fox Academy. I'm specializing in full stack and this is my progression in our after-course Huli program, where I'm sharpening my skills to become an even better candidate.
+Welcome to my page, my name is Dominik and I'm a fresh alumni of Green Fox Academy. I'm specializing in full stack and this is my basic progression in our after-course Huli program, where I'm sharpening my skills to become an even better candidate.
 
 ## Hire me
 LinkedIn: https://www.linkedin.com/in/dominik-plavka-0411549a/
@@ -8,7 +8,7 @@ LinkedIn: https://www.linkedin.com/in/dominik-plavka-0411549a/
 Email: domino.plavka@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-Virtual Trainer App: https://github.com/green-fox-academy/virtual-trainer
+Virtual Trainer App (Pre-final project in Green Fox Academy): https://github.com/green-fox-academy/virtual-trainer
 Weather App: https://github.com/DominikPlavka/virtual-train
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
